@@ -1,0 +1,7 @@
+puts "=> Hola, cual es tu primer nombre?"
+primernombre = gets.chomp
+puts "=> Hola + primernombre + cual es tu primer apellido?"
+primerapellido = gets.chomp
+puts "=> Hola + primernombre + primerapellido + cual es tu segundo apellido?"
+segundoapellido = gets.chomp
+puts "=> Hola + primernombre + primerapellido + segundo apellido + mucho gusto!"
