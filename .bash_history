@@ -471,3 +471,22 @@ vim
 ruby juego_de_dos_dados.rb
 vim
 vim
+vim
+ls -l
+vim
+ruby juego_de_dados.rb
+ruby juego_de_dos_dados.rb
+cd ..
+git config --global manufra78 Francisco
+git config --global user.name manufran78 
+git config --global user.email manufran@me.com
+git init
+vim
+e prueba.rb
+w prueba.rb
+ls -l
+cd francisco
+vim
+ls l
+ls- l
+ls -l

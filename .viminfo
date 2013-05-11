@@ -11,10 +11,10 @@
 $
 
 # Command Line History (newest to oldest):
-:exit
-:w prueba.rb
 :wq!
 :e prueba.rb
+:exit
+:w prueba.rb
 :e setecientos
 :e juego_de_dos_dados.rb
 :e decada.rb
@@ -85,7 +85,7 @@ $
 	e
 
 # File marks:
-'0  1  0  ~/prueba.rb
+'0  1  9  ~/prueba.rb
 '1  1  0  /home/prueba.rb
 '2  1  0  ~/setecientos
 '3  1  12  ~/juego_de_dos_dados.rb
@@ -97,7 +97,7 @@ $
 '9  6  19  ~/juego_de_dos_dados.rb
 
 # Jumplist (newest first):
--'  1  0  ~/prueba.rb
+-'  1  9  ~/prueba.rb
 -'  1  0  /home/prueba.rb
 -'  1  0  ~/setecientos
 -'  1  12  ~/juego_de_dos_dados.rb
@@ -193,10 +193,14 @@ $
 -'  1  0  /home/chiara/Documents/ciao.txt
 -'  1  0  /home/chiara/Documents/ciao.txt
 -'  58  0  /etc/passwd
--'  1  0  /etc/passwd
--'  1  0  /home/chiara/Documents/ciao.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/prueba.rb
+	"	1	9
+	^	1	10
+	.	1	10
+	+	1	10
 
 > /home/prueba.rb
 	"	1	0
